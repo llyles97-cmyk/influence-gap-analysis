@@ -1,0 +1,37 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>The Influence Gap — banner</title>
+  <desc>Dark banner showing the project title, subtitle, and a stylized diverging bar chart representing the influence gap between engagement and action.</desc>
+
+  <rect x="0" y="0" width="680" height="200" rx="8" fill="#0d0d0d"/>
+
+  <rect x="40" y="52" width="3" height="96" fill="#333"/>
+
+  <rect x="43" y="64" width="180" height="14" rx="2" fill="#E24B4A" opacity="0.85"/>
+  <rect x="43" y="84" width="130" height="14" rx="2" fill="#E24B4A" opacity="0.65"/>
+  <rect x="43" y="104" width="210" height="14" rx="2" fill="#E24B4A" opacity="0.45"/>
+  <rect x="43" y="124" width="90" height="14" rx="2" fill="#E24B4A" opacity="0.3"/>
+
+  <rect x="43" y="64" width="52" height="14" rx="2" fill="#1D9E75" opacity="0.9"/>
+  <rect x="43" y="84" width="88" height="14" rx="2" fill="#1D9E75" opacity="0.7"/>
+  <rect x="43" y="104" width="34" height="14" rx="2" fill="#1D9E75" opacity="0.5"/>
+  <rect x="43" y="124" width="114" height="14" rx="2" fill="#1D9E75" opacity="0.35"/>
+
+  <text x="270" y="82" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="500" fill="#f0f0f0" letter-spacing="-0.5">The Influence Gap</text>
+  <text x="270" y="108" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#888">Why followers and engagement don&#x2019;t reliably predict behavior</text>
+
+  <line x1="270" y1="122" x2="620" y2="122" stroke="#222" stroke-width="0.5"/>
+
+  <text x="270" y="142" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#444">
+    <tspan fill="#E24B4A">&#x25A0;</tspan>
+    <tspan fill="#666" dx="4">Engagement</tspan>
+    <tspan fill="#1D9E75" dx="16">&#x25A0;</tspan>
+    <tspan fill="#666" dx="4">Action</tspan>
+    <tspan fill="#555" dx="16">150,000 campaigns</tspan>
+    <tspan fill="#555" dx="10">&#xB7;</tspan>
+    <tspan fill="#555" dx="6">4 platforms</tspan>
+    <tspan fill="#555" dx="10">&#xB7;</tspan>
+    <tspan fill="#555" dx="6">IGS = z(Action) &#x2212; z(Interaction)</tspan>
+  </text>
+
+  <text x="270" y="168" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#333" font-style="italic">Platforms optimize for interaction. Markets require action. The gap between the two is where performance breaks.</text>
+</svg>
